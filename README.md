@@ -24,6 +24,13 @@ Your goal is to build a React and Redux-based UI to explore this data. The inter
 4. Zooming in the map should filter the visualised data to include only those ramps which are currently visible in the viewport.
 5. Clicking on a data point on a visualisation should filter the ramps on the map to reflect the selected data.
 
+## Bonus points
+
+Things that aren't necessary but would impress us:
+
+1. Challenge built in TypeScript
+2. Functional React components using hooks
+
 ## Technology choices
 
 The use of React and Redux is required. You can choose to use [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. If you prefer you can even bootstrap something on your own with webpack, or any other bundler for that matter.
