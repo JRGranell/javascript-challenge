@@ -1,8 +1,12 @@
 # Technical challenge
 
+This technical challenge has been designed in line with some of the work we do at Vortexa, so we can see how you structure an application and implement certain functionality. There is no right or wrong way to do this challenge. We are interested in the code you write, the implementation details of your application and the development process you use rather than marking your work!
+
+If you don't enjoy building full stack applications in JavaScript/Typescript and building various visualisations for data sets, you won't enjoy the work we do at Vortexa. This challenge should be fun!
+
 ## How to take this test
 
-There is no right or wrong way to do this, we are more interested in the code you write, the development process you use rather than marking your work! Set yourself a time limit and see how get on.
+Set yourself a time limit and try to stick to it. We know these challenges take valuable time and effort, so we don't expect perfection. If you reach your time limit but haven't finished all of the tasks that form the challenge, try to document what you would add if you had more time.
 
 ## Data
 
@@ -15,10 +19,10 @@ It is a standard [GeoJSON](http://geojson.org/) file, with each feature consisti
 Your goal is to build a React and Redux-based UI to explore this data. The interface should have the following features:
 
 1. A map to be able to visualise all the boat ramps.
-2. A data visualisation of your choice that displays the number or ramps per construction material.
+2. A data visualisation (e.g. a bar chart) of your choice that displays the number or ramps per construction material.
 3. A data visualisation of your choice that displays the number of ramps per size category (values of `area` in 3 different ranges: `[0, 50)`, `[50, 200)`, and `[200, 526)`).
 4. Zooming in the map should filter the visualised data to include only those ramps which are currently visible in the viewport.
-5. Clicking on a data point on a visualisation, should filter the ramps on the map to reflect the selected data.
+5. Clicking on a data point on a visualisation should filter the ramps on the map to reflect the selected data.
 
 ## Technology choices
 
