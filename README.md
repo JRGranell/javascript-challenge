@@ -1,8 +1,8 @@
 # Technical challenge
 
-This technical challenge has been designed in line with some of the work we do at Vortexa, so we can see how you structure an application and implement certain functionality. There is no right or wrong way to do this challenge. We are interested in the code you write, the implementation details of your application and the development process you use rather than marking your work!
+This technical challenge has been designed in line with some of the work we do, so we can see how you structure an application and implement certain functionality. There is no right or wrong way to do this challenge. We are interested in the code you write, the implementation details of your application and the development process you use rather than marking your work!
 
-If you don't enjoy building full stack applications in JavaScript/Typescript and building various visualisations for data sets, you won't enjoy the work we do at Vortexa. This challenge should be fun!
+If you don't enjoy building full stack applications in JavaScript/Typescript and building various visualisations for data sets, you won't enjoy the work we do. This challenge should be fun!
 
 ## How to take this test
 
