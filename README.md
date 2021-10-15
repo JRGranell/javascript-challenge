@@ -4,11 +4,11 @@ This technical challenge has been designed to reflect some of the work we do, it
 
 ## UI/UX
 
-We don't provide a specific UI/UX design as we don't want to constrain the ideas you may have to approaching the problem. If you're looking for inspiration consider what would questions you might be asking as a user with a this kind of dataset. The requirements give some hints - using charts and maps - but don't feel you are limited, we love to see innovative approaches to design!
+We don't provide a specific UI/UX design as we don't want to constrain the ideas you may have to approaching the problem. If you're looking for inspiration consider what would questions a user might want to answer with this dataset, and how the UI will help them do that. The requirements give some hints - using charts and maps - but don't feel you are limited, we love to see innovative approaches to design!
 
 ## How long should it take?
 
-Set yourself a time limit, we suggest around 6 hours or a couple of evenings, but it will depend on your experience and familiarity with the libraries you choose to use. We know these challenges take valuable time and effort so if you reach your time limit feel free to document what you would add if you had more time.
+We suggest around 6 hours or a couple of evenings, but this is a soft limit, it will depend on your experience, familiarity with the libraries you choose to use, and how much you are enjoying the challenge. We appreciate this is valuable time and effort so if you reach your time limit feel free to document what you would add if you had more time.
 
 ## Data
 
@@ -35,7 +35,7 @@ Things that aren't necessary but would impress us:
 
 ## Technology choices
 
-The use of React and Redux is required. To get and running in seconds we recommend using [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. However feel free to bootstrap that app with your preferred solution.
+The use of React and Redux is required. To get and running in seconds we recommend using [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. However feel free to bootstrap the app with your preferred solution.
 
 Apart from that, you are completely free to choose libraries, frameworks and tools to best assist you in this challenge. Here are a few of our favourites if you're looking for inspiration:
 
@@ -46,5 +46,7 @@ Apart from that, you are completely free to choose libraries, frameworks and too
 ## Once complete
 
 When you've finished writing your code, please push it into a private repo on GitHub (or GitLab) and add add us as a collaborator plus any instructions needed to run it.
+
+We are continually trying to improve our challenge, so we'd love to know roughly how long you took, what you liked about the test, and what you feel could make it better. If you get the chance feel free to leave these notes in the readme.
 
 ### Good luck!
