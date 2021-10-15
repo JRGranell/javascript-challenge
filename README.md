@@ -1,6 +1,6 @@
 # Technical challenge
 
-This technical challenge has been designed to reflect some of the work we do, it's meant to fun, challenging and you may learning something too! We use this test in the follow up interview stages and as part our on-boarding process. There is no right or wrong way to do this challenge, we are interested in the code you write, the implementation details of your application and the development process you use rather than marking your work!
+This technical challenge has been designed to reflect some of the work we do, it's meant to be fun, challenging and you may learning something too! There is no right or wrong way to do this challenge, we are interested in the code you write and the choices you make along the way to solve the problem. We'll also use the code that you submit in the follow up interview stages and as part our on-boarding process.
 
 ## UI/UX
 
