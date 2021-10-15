@@ -1,6 +1,6 @@
 # Technical challenge
 
-This technical challenge has been designed to reflect some of the work we do, it's meant to be fun, challenging and you may learning something too! There is no right or wrong way to do this challenge, we are interested in the code you write and the choices you make along the way to solve the problem. We'll also use the code that you submit in the follow up interview stages and as part our on-boarding process.
+This technical challenge has been designed to reflect some of the work we do, it's meant to be fun, challenging and you may learning something too! There is no right or wrong way to do this challenge, we are interested in the code you write and the choices you make along the way. We'll also use the code that you submit in the follow up interview stages and as part our on-boarding process.
 
 ## UI/UX
 
@@ -8,7 +8,7 @@ We don't provide a specific UI/UX design as we don't want to constrain the ideas
 
 ## How long should it take?
 
-We suggest around 6 hours or a couple of evenings, but this is a soft limit, it will depend on your experience, familiarity with the libraries you choose to use, and how much you are enjoying the challenge. We appreciate this is valuable time and effort so if you reach your time limit feel free to document what you would add if you had more time.
+We suggest around 6 hours or a couple of evenings, but this is a soft limit, and will depend on your experience, familiarity with the libraries you choose to use, and how much you are enjoying the challenge. We appreciate this is valuable time and effort so if you reach your time limit feel free to document what you would add if you had more time.
 
 ## Data
 
