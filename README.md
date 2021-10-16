@@ -8,7 +8,7 @@ We don't provide a specific UI/UX design as we don't want to constrain the ideas
 
 ## How long should it take?
 
-We suggest around 6 hours or a couple of evenings, but this is a soft limit, and will depend on your experience, familiarity with the libraries you choose to use, and how much you are enjoying the challenge. We appreciate this is valuable time and effort so if you reach your time limit feel free to document what you would add if you had more time.
+We suggest around 4-6 hours, but there is no hard limit. It will depend on your experience, familiarity with the libraries you choose to use, and how much you are enjoying the challenge. We appreciate this is valuable time and effort so if you reach your time limit feel free to document what you would add if you had more time.
 
 ## Data
 
