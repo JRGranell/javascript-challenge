@@ -4,7 +4,7 @@ This technical challenge has been designed to reflect some of the work we do, it
 
 ## UI/UX
 
-We don't provide a specific UI/UX design as we don't want to constrain the ideas you may have to approaching the problem. If you're looking for inspiration consider what would questions a user might want to answer with this dataset, and how the UI will help them do that. The requirements give some hints - using charts and maps - but don't feel you are limited, we love to see innovative approaches to design!
+We don't provide a specific UI/UX design as we don't want to constrain the ideas you may have to approaching the problem. If you're looking for inspiration consider what questions a user might want to answer with this dataset, and how the UI will help them do that. The requirements give some hints - using charts and maps - but don't feel you are limited, we love to see innovative approaches to design!
 
 ## How long should it take?
 
@@ -12,7 +12,7 @@ We suggest around 4-6 hours, but there is no hard limit. It will depend on your 
 
 ## Data
 
-The project contains a data set describing the location and metadata of boat ramps in Australia's Gold Coast. The data set can be found under `./data/boat_ramps.geojson`.
+The data set describes the location and metadata of boat ramps in Australia's Gold Coast. It can be found at this URL: [https://raw.githubusercontent.com/JRGranell/javascript-challenge/master/data/boat_ramps.geojson](https://raw.githubusercontent.com/JRGranell/javascript-challenge/master/data/boat_ramps.geojson).
 
 It is a standard [GeoJSON](http://geojson.org/) file, with each feature consisting of a `geometry` and `properties`, such as owner, material that the ramp is made of, etc.
 
@@ -20,11 +20,12 @@ It is a standard [GeoJSON](http://geojson.org/) file, with each feature consisti
 
 Your goal is to build a React and Redux-based UI to explore this data. The interface should have the following features:
 
-1. A map to be able to visualise all the boat ramps.
-2. A data visualisation (e.g. a bar chart) of your choice that displays the number or ramps per construction material.
-3. A data visualisation of your choice that displays the number of ramps per size category (values of `area` in 3 different ranges: `[0, 50)`, `[50, 200)`, and `[200, 526)`).
-4. Zooming in the map should filter the visualised data to include only those ramps which are currently visible in the viewport.
-5. Clicking on a data point on a visualisation should filter the ramps on the map to reflect the selected data.
+1. Fetch data from the above URL.
+2. A map to be able to visualise all the boat ramps.
+3. A data visualisation (e.g. a bar chart) of your choice that displays the number or ramps per construction material.
+4. A data visualisation of your choice that displays the number of ramps per size category (values of `area` in 3 different ranges: `[0, 50)`, `[50, 200)`, and `[200, 526)`).
+5. Zooming in the map should filter the visualised data to include only those ramps which are currently visible in the viewport.
+6. Clicking on a data point on a visualisation should filter the ramps on the map to reflect the selected data.
 
 ## Bonus points
 
