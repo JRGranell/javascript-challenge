@@ -46,7 +46,10 @@ Apart from that, you are completely free to choose libraries, frameworks and too
 
 ## Once complete
 
-When you've finished writing your code, please push it into a private repo on GitHub (or GitLab) and add add us as a collaborator plus any instructions needed to run it.
+When you've finished writing your code, please push it into a private repo on GitHub (or GitLab) and add add the following as collaborators plus any instructions needed to run it:
+- [Andrea](https://github.com/andreagerino)
+- [Hilary](https://github.com/hilarykitz)
+- [Christian](https://github.com/ChristianBorresen)
 
 We are continually trying to improve our challenge, so we'd love to know roughly how long you took, what you liked about the test, and what you feel could make it better. If you get the chance feel free to leave these notes in the readme.
 
