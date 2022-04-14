@@ -36,7 +36,7 @@ Things that aren't necessary but would impress us:
 
 ## Technology choices
 
-The use of React and Redux is required. To get and running in seconds we recommend using [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. However feel free to bootstrap the app with your preferred solution.
+The use of React and Redux is required. To get up and running in seconds we recommend using [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. However feel free to bootstrap the app with your preferred solution.
 
 Apart from that, you are completely free to choose libraries, frameworks and tools to best assist you in this challenge. Here are a few of our favourites if you're looking for inspiration:
 
@@ -46,7 +46,10 @@ Apart from that, you are completely free to choose libraries, frameworks and too
 
 ## Once complete
 
-When you've finished writing your code, please push it into a private repo on GitHub (or GitLab) and add add us as a collaborator plus any instructions needed to run it.
+When you've finished writing your code, please push it into a private repo on GitHub (or GitLab) and add add the following as collaborators plus any instructions needed to run it:
+- [Andrea](https://github.com/andreagerino)
+- [Hilary](https://github.com/hilarykitz)
+- [Christian](https://github.com/ChristianBorresen)
 
 We are continually trying to improve our challenge, so we'd love to know roughly how long you took, what you liked about the test, and what you feel could make it better. If you get the chance feel free to leave these notes in the readme.
 
