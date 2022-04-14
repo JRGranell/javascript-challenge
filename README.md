@@ -36,7 +36,7 @@ Things that aren't necessary but would impress us:
 
 ## Technology choices
 
-The use of React and Redux is required. To get and running in seconds we recommend using [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. However feel free to bootstrap the app with your preferred solution.
+The use of React and Redux is required. To get up and running in seconds we recommend using [create-react-app](https://github.com/facebook/create-react-app) with or without TypeScript. However feel free to bootstrap the app with your preferred solution.
 
 Apart from that, you are completely free to choose libraries, frameworks and tools to best assist you in this challenge. Here are a few of our favourites if you're looking for inspiration:
 
