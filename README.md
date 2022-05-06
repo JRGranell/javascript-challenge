@@ -50,6 +50,7 @@ When you've finished writing your code, please push it into a private repo on Gi
 - [Andrea](https://github.com/andreagerino)
 - [Hilary](https://github.com/hilarykitz)
 - [Christian](https://github.com/ChristianBorresen)
+- [JR](https://github.com/jrgranell)
 
 We are continually trying to improve our challenge, so we'd love to know roughly how long you took, what you liked about the test, and what you feel could make it better. If you get the chance feel free to leave these notes in the readme.
 
